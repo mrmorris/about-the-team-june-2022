@@ -1,6 +1,6 @@
 # About the team
 
 * Ryan Morris
-*Rajendra Duggineni
+* Rajendra Duggineni
 
 That is all, folks!
