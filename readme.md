@@ -1,6 +1,6 @@
 # About the team
 
 * Ryan Morris
-* <--- next team member goes here
+*Rajendra Duggineni
 
 That is all, folks!
