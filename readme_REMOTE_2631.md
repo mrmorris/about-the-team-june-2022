@@ -1,8 +1,8 @@
 # About the team
 
 * Ryan Morris
-* Rajendra Duggineni
 * Honest Abe
 * Bad Robot
+* <--- next team member goes here
 
 That is all, folks!
